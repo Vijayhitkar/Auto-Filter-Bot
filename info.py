@@ -75,7 +75,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/allmovieshubsss')
 OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/hitkar1999")
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/moviesbackups12')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/+G7A3sedCP6oxN2Fl')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/allmovieshubsss')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/moviesbackups12")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/moviesbackups12")
 
